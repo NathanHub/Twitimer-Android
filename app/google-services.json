@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "UNDEFINED",
-    "firebase_url": "UNDEFINED",
-    "project_id": "UNDEFINED",
-    "storage_bucket": "UNDEFINED"
+    "project_number": "585773222755",
+    "project_id": "twitimerapp-262a8",
+    "storage_bucket": "twitimerapp-262a8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "UNDEFINED",
+        "mobilesdk_app_id": "1:585773222755:android:eb55752df252e095e02156",
         "android_client_info": {
-          "package_name": "UNDEFINED"
+          "package_name": "com.mouredev.twitimer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "UNDEFINED",
+          "client_id": "585773222755-7n6tnjp0ed8img07eo26qj987ej7hi5l.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "UNDEFINED"
+          "current_key": "AIzaSyCZViXAJ9gFhQ3wo7zwrObe8gXUZz0Mhik"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "UNDEFINED",
+              "client_id": "585773222755-7n6tnjp0ed8img07eo26qj987ej7hi5l.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "UNDEFINED",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "UNDEFINED"
-              }
             }
           ]
         }
